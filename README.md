@@ -1,6 +1,6 @@
 ## Augmented Reality Steuerung von Smarthome Infrastrukturen
 
-This is the project repository for my bachelor thesis. Below you can see the visual interface when using the Application in this repository. The Repository just serves a Demonstration purpose and is **not** made to be run on its own and without the proper background knowledge. Plea
+This is the project repository for my bachelor thesis. Below you can see the visual interface when using the Application in this repository. The Repository just serves a Demonstration purpose and is **not** made to be run on its own and without the proper background knowledge. Please contact me, if you'd like further information.
 
 -----
 
