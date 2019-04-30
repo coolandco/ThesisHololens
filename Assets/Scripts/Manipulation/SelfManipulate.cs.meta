@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00cc88a6e16a6eb4ab4098b898cf2427
+timeCreated: 1526303024
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myBoundingBox: {fileID: 114030465538688920, guid: 865a8ded6c47efd4285f04f3aebe99e9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

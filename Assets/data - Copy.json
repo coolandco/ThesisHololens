@@ -1,0 +1,144 @@
+﻿{
+  "MqttDeviceData": [
+    {
+      "baseAdress": "Multimediawand_HUE1",
+      "DeviceType3D": "Lamp",
+      "HoverOffsetZ": 0,
+      "posX": 0,
+      "posY": 0,
+      "posZ": 1,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1,
+      "rotX": 0,
+      "rotY": 0,
+      "rotZ": 0,
+	  
+	  "linkedAnchor": null,
+
+      "myUIContainerData": [
+        {
+          "adress": "Multimediawand_HUE1_Toggle",
+          "displayText": "displayText",
+          "function_UIContainer": "Switch",
+          "posX": 0,
+          "posY": 0.3,
+          "posZ": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "scaleZ": 1,
+          "readOnly": false,
+          "specificContainerData1": "ObjectCollectionScatter",
+          "specificContainerData2": "specificContainerData2",
+          "specificContainerData3": "specificContainerData3",
+          "specificContainerData4": "specificContainerData4",
+          "specificContainerData5": "specificContainerData5"
+        },
+        {
+          "adress": "Multimediawand_HUE1_Toggle",
+          "displayText": "displayText2",
+          "function_UIContainer": "Switch",
+          "posX": 0.12,
+          "posY": 0.3,
+          "posZ": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "scaleZ": 1,
+          "readOnly": false,
+          "specificContainerData1": "ObjectCollectionSphere",
+          "specificContainerData2": "specificContainerData2",
+          "specificContainerData3": "specificContainerData3",
+          "specificContainerData4": "specificContainerData4",
+          "specificContainerData5": "specificContainerData5"
+        },
+        {
+          "adress": "Multimediawand_HUE1_Toggle",
+          "displayText": "displayText2",
+          "function_UIContainer": "Toggle",
+          "posX": 0.24,
+          "posY": 0.3,
+          "posZ": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "scaleZ": 1,
+          "readOnly": false,
+          "specificContainerData1": "ObjectCollectionSphere",
+          "specificContainerData2": "specificContainerData2",
+          "specificContainerData3": "specificContainerData3",
+          "specificContainerData4": "specificContainerData4",
+          "specificContainerData5": "specificContainerData5"
+        },
+        {
+          "adress": "Multimediawand_HUE1_Dimmer",
+          "displayText": "displayText2",
+          "function_UIContainer": "Slider",
+          "posX": 0.00,
+          "posY": 0.1,
+          "posZ": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "scaleZ": 1,
+          "readOnly": false,
+          "specificContainerData1": "specificContainerData1",
+          "specificContainerData2": "specificContainerData2",
+          "specificContainerData3": "specificContainerData3",
+          "specificContainerData4": "specificContainerData4",
+          "specificContainerData5": "specificContainerData5"
+        }
+      ]
+    },
+    {
+      "baseAdress": "Multimediawand_HUE2",
+      "DeviceType3D": "Box",
+      "HoverOffsetZ": 0,
+      "posX": 2,
+      "posY": 0,
+      "posZ": 2,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1,
+      "rotX": 0,
+      "rotY": 40,
+      "rotZ": 0,
+	  
+	  "linkedAnchor": null,
+
+      "myUIContainerData": [
+        {
+          "adress": "Multimediawand_HUE2_Toggle",
+          "displayText": "displayText",
+          "function_UIContainer": "Switch",
+          "posX": 0,
+          "posY": 0.3,
+          "posZ": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "scaleZ": 1,
+          "readOnly": false,
+          "specificContainerData1": "ObjectCollectionScatter",
+          "specificContainerData2": "specificContainerData2",
+          "specificContainerData3": "specificContainerData3",
+          "specificContainerData4": "specificContainerData4",
+          "specificContainerData5": "specificContainerData5"
+        },
+        {
+          "adress": "Multimediawand_HUE2_Toggle",
+          "displayText": "displayText2",
+          "function_UIContainer": "Switch",
+          "posX": 0.06,
+          "posY": 0.3,
+          "posZ": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "scaleZ": 1,
+          "readOnly": false,
+          "specificContainerData1": "ObjectCollectionSphere",
+          "specificContainerData2": "specificContainerData2",
+          "specificContainerData3": "specificContainerData3",
+          "specificContainerData4": "specificContainerData4",
+          "specificContainerData5": "specificContainerData5"
+        }
+      ]
+    }
+  ]
+}
